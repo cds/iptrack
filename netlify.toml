@@ -1,5 +1,2 @@
 [context.development]
-environment = { NODE_VERSION = “14.19.0” }
-[build]
-command = "npm run build"
-publish = "dist"
+environment = { NODE_VERSION = “v14.19.0” }
